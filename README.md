@@ -1,2 +1,2 @@
-# Leetcode Contest Solutions
- Solution for Leetcode Weekly Contest
+# Algorithms and Data Structures
+ Collections of coding competition solutions.
