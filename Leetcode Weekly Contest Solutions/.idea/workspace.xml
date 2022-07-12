@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af6a32b7-efce-4e4b-ae2d-0ca729758de1" name="Default Changelist" comment="" />
+    <list default="true" id="af6a32b7-efce-4e4b-ae2d-0ca729758de1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,19 +40,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Weekly Contest 301/2336. Smallest Number in Infinite Set.py">
+        <entry file="file://$PROJECT_DIR$/Weekly Contest 289/2245. Maximum Trailing Zeros in a Cornered Path.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            <state relative-caret-position="1678">
+              <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Weekly Contest 301/2337. Move Pieces to Obtain a String.py">
+        <entry file="file://$PROJECT_DIR$/Weekly Contest 289/2246. Longest Path With Different Adjacent Characters.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-start-column="2" selection-end-line="4" selection-end-column="146" />
+              <caret selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -76,6 +78,8 @@
         <option value="$PROJECT_DIR$/Weekly Contest 301/2335. Minimum Amount of Time to Fill Cups.py" />
         <option value="$PROJECT_DIR$/Weekly Contest 301/2336. Smallest Number in Infinite Set.py" />
         <option value="$PROJECT_DIR$/Weekly Contest 301/2337. Move Pieces to Obtain a String.py" />
+        <option value="$PROJECT_DIR$/Weekly Contest 289/2245. Maximum Trailing Zeros in a Cornered Path.py" />
+        <option value="$PROJECT_DIR$/Weekly Contest 289/2246. Longest Path With Different Adjacent Characters.py" />
       </list>
     </option>
   </component>
@@ -180,9 +184,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1864139" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -245,6 +250,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-start-column="2" selection-end-line="4" selection-end-column="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weekly Contest 289/2245. Maximum Trailing Zeros in a Cornered Path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1678">
+          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weekly Contest 289/2246. Longest Path With Different Adjacent Characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" />
         </state>
       </provider>
     </entry>
